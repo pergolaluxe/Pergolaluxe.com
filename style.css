@@ -113,3 +113,13 @@ p{
     left: 9rem;
     color:#27374D; 
 }
+
+.first-paragraph {
+    color:#DDE6ED;
+    font-size: 2rem;
+}
+
+#product-overview .first-paragraph {
+    Position: relative;
+    margin-top: 3rem;
+}
